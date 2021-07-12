@@ -1,0 +1,12 @@
+button{
+    padding: 10px;
+    margin-top: 20px;
+    background: linear-gradient(rgb(252, 59, 171),rgb(245, 13, 129),rgb(250, 25, 149),rgb(233, 78, 194),rgb(109, 9, 67));
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+}
+img{
+    width: 100px;
+    
+}

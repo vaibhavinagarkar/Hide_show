@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'toggle';
+
+
+  showMe:boolean=false
+  doToggle(){
+    this.showMe=!this.showMe
+  
+  }
 }
